@@ -5,6 +5,28 @@
 Leveraging my background in audit consulting and a rigorous education in Big Data analytics. Proficient in Python and its relevant libraries, I bring hands-on experience in machine learning and data visualization. Highly motivated and eager to embark on the next phase of my career journey, I am ready to thrive in a dynamic and diverse culture.
 
 ---
+## Education
+
+### IESEG School of Management (Lille, France)
+**Specialized Masters in Big Data Analytics for Business**  
+_2023 – 2025_
+
+**Key Courses:**
+- Descriptive and Predictive Analytics
+- Financial Programming
+- Fundamentals of Deep Learning
+- Forecasting
+
+### Hong Kong Baptist University
+**Bachelor of Commerce (Hons) in Accountancy**  
+_2019 – 2021_
+
+**Key Courses:**
+- Hong Kong Taxation
+- Principles of Law
+- Accounting Research Methods
+
+---
 
 ## Projects
 
@@ -57,28 +79,6 @@ _Oct 2021 - Dec 2021_
 
 ---
 
-## Education
-
-### IESEG School of Management (Lille, France)
-**Specialized Masters in Big Data Analytics for Business**  
-_2023 – 2025_
-
-**Key Courses:**
-- Descriptive and Predictive Analytics
-- Financial Programming
-- Fundamentals of Deep Learning
-- Forecasting
-
-### Hong Kong Baptist University
-**Bachelor of Commerce (Hons) in Accountancy**  
-_2019 – 2021_
-
-**Key Courses:**
-- Hong Kong Taxation
-- Principles of Law
-- Accounting Research Methods
-
----
 
 ## Certifications
 
