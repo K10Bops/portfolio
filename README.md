@@ -25,7 +25,12 @@ _2019 – 2021_
 - Accounting Research Methods
 
 ---
+## Certifications
 
+- Tableau Desktop Specialist - Pearson VUE
+- Deep Learning Essentials - BlueCourses
+
+---
 ## Projects
 
 ### Msc BigData | Streamlit Yahoo Dashboard
@@ -74,14 +79,6 @@ _Oct 2021 - Dec 2021_
 - Assessed financial statements, internal controls, and operational processes to identify potential risks, inconsistencies, and areas for improvement.
 - Utilized analytical skills to evaluate complex data sets, detect anomalies, and ensure compliance with applicable laws, regulations, and industry standards.
 - Maintained effective communication channels with clients, addressing inquiries and providing guidance.
-
----
-
-
-## Certifications
-
-- Tableau Desktop Specialist - Pearson VUE
-- Deep Learning Essentials - BlueCourses
 
 ---
 
