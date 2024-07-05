@@ -137,10 +137,12 @@ _Oct 2021 - Dec 2021_
 ## Languages
 
 - English (Native)
+- French (Beginner)
+  
 - Hindi (Speaking)
 - Kannada (Beginner)
 - Mandarin (Beginner)
-- French (Beginner)
+
 
 ---
 
