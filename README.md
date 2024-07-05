@@ -1,8 +1,40 @@
+# Kodangada Ketan Bopanna
+
 ## Aspiring Data Scientist
 
 Leveraging my background in audit consulting and a rigorous education in Big Data analytics. Proficient in Python and its relevant libraries, I bring hands-on experience in machine learning and data visualization. Highly motivated and eager to embark on the next phase of my career journey, I am ready to thrive in a dynamic and diverse culture.
 
 ---
+
+## Skills
+
+<div style="display: flex; justify-content: space-between;">
+
+### Technical:
+- MsExcel: Expert
+- Python: Intermediate
+- R: Beginner
+- SQL: Beginner
+- PySpark: Intermediate
+- Tableau: Intermediate
+- TensorFlow: Beginner
+- R(Shiny): Beginner
+- Streamlit: Intermediate
+
+### Soft:
+- Curious
+- Collaborative
+- Critical thinking
+- Detail oriented
+- Creative
+- Flexible
+- Cross functional communication
+- Stakeholder oriented
+
+</div>
+
+---
+
 ## Education
 
 ### IESEG School of Management (Lille, France)
@@ -25,12 +57,14 @@ _2019 – 2021_
 - Accounting Research Methods
 
 ---
+
 ## Certifications
 
 - Tableau Desktop Specialist - Pearson VUE
 - Deep Learning Essentials - BlueCourses
 
 ---
+
 ## Projects
 
 ### Msc BigData | Streamlit Yahoo Dashboard
@@ -82,31 +116,6 @@ _Oct 2021 - Dec 2021_
 
 ---
 
-## Skills
-
-**Technical:**
-- MsExcel: Expert
-- Python: Intermediate
-- R: Beginner
-- SQL: Beginner
-- PySpark: Intermediate
-- Tableau: Intermediate
-- TensorFlow: Beginner
-- R(Shiny): Beginner
-- Streamlit: Intermediate
-
-**Soft:**
-- Curious
-- Collaborative
-- Critical thinking
-- Detail oriented
-- Creative
-- Flexible
-- Cross functional communication
-- Stakeholder oriented
-
----
-
 ## Languages
 
 - English (Native)
@@ -116,3 +125,7 @@ _Oct 2021 - Dec 2021_
 - French (Beginner)
 
 ---
+
+## Contact
+
+- Email: hkket84@gmail.com
