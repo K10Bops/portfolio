@@ -1,3 +1,4 @@
+
 ## Aspiring Data Scientist
 
 Leveraging my background in audit consulting and a rigorous education in Big Data analytics. Proficient in Python and its relevant libraries, I bring hands-on experience in machine learning and data visualization. Highly motivated and eager to embark on the next phase of my career journey, I am ready to thrive in a dynamic and diverse culture.
@@ -5,8 +6,6 @@ Leveraging my background in audit consulting and a rigorous education in Big Dat
 ---
 
 ## Skills
-
-<div style="display: flex; justify-content: space-between;">
 
 ### Technical:
 - MsExcel: Expert
@@ -28,8 +27,6 @@ Leveraging my background in audit consulting and a rigorous education in Big Dat
 - Flexible
 - Cross functional communication
 - Stakeholder oriented
-
-</div>
 
 ---
 
@@ -88,6 +85,7 @@ _2019 – 2021_
 
 - Developed a predictive model to forecast potential depreciation in building value, incorporating risk levels and various other factors.
 - Utilized Open Data to evaluate climate-related risks impacting buildings in a specific region in France.
+- **Project Link:** [la-carte-du-peril](https://la-carte-du-peril.streamlit.app/)
 - Location: Hauts De France, Lille.
 
 ---
@@ -127,3 +125,4 @@ _Oct 2021 - Dec 2021_
 ## Contact
 
 - Email: hkket84@gmail.com
+- Phone: +33 07 66 54 09 45
