@@ -101,8 +101,6 @@ _2019 – 2021_
 2. **Sequence Prediction with RNNs**
     - Explored the application of Recurrent Neural Networks (RNNs) for a sequence prediction task.
 
-
-
 ### Msc BigData | Streamlit Yahoo Dashboard
 **October 2023 (1 month)**
 
@@ -110,8 +108,6 @@ _2019 – 2021_
 - Integrated Yahoo Finance data and Reddit news for a holistic financial analysis.
 - **Libraries Used:** NumPy, Pandas, Matplotlib, Plotly, yfinance, Streamlit, Requests, Redditwarp.
 - [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
-
-
 
 ---
 
