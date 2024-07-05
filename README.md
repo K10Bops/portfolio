@@ -44,6 +44,7 @@ Leveraging my background in audit consulting and a rigorous education in Big Dat
   </div>
 </div>
 
+## 
 ### Soft
 
 <div class="flex flex-wrap gap-1">
