@@ -44,34 +44,55 @@ Leveraging my background in audit consulting and a rigorous education in Big Dat
   </div>
 </div>
 
-### Soft
+### Soft Skills
 
-<div class="flex gap-1">
-  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
-    Curious
-  </div>
-  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
-    Collaborative
-  </div>
-  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
-    Critical thinking
-  </div>
-  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
-    Detail oriented
-  </div>
-  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
-    Creative
-  </div>
-  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
-    Flexible
-  </div>
-  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
-    Cross functional communication
-  </div>
-  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
-    Stakeholder oriented
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
+        Curious
+      </div>
+    </td>
+    <td>
+      <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
+        Collaborative
+      </div>
+    </td>
+    <td>
+      <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
+        Critical thinking
+      </div>
+    </td>
+    <td>
+      <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
+        Detail oriented
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
+        Creative
+      </div>
+    </td>
+    <td>
+      <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
+        Flexible
+      </div>
+    </td>
+    <td>
+      <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
+        Cross functional communication
+      </div>
+    </td>
+    <td>
+      <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
+        Stakeholder oriented
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 
