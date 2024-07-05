@@ -43,9 +43,9 @@ Leveraging my background in audit consulting and a rigorous education in Big Dat
     Languages: Python, SQL, R(Shiny)
   </div>
 </div>
-</div>
+
 ### Soft
-</div>
+
 <div class="flex flex-wrap gap-1">
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary/80 text-secondary-foreground hover:bg-secondary/60">
     Curious
@@ -79,6 +79,7 @@ Leveraging my background in audit consulting and a rigorous education in Big Dat
     Stakeholder oriented
   </div>
 </div>
+
 
 ---
 
