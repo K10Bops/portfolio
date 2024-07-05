@@ -51,6 +51,35 @@ Leveraging my background in audit consulting and a rigorous education in Big Dat
 </table>
 
 ---
+## Projects
+
+### Crédit Agricole Bank & Msc BigData | Predict Risk and Building Depreciation
+**Feb 2024 - May 2024 Winning Team**
+
+- Developed a predictive model to forecast potential depreciation in building value, incorporating risk levels and various other factors.
+- Utilized Open Data to evaluate climate-related risks impacting buildings in a specific region in France.
+- **Project Link:** [la-carte-du-peril](https://la-carte-du-peril.streamlit.app/)
+- Location: Hauts De France, Lille.
+
+### Msc BigData | DeepLearning
+**March 2024 (2 weeks)**
+
+1. **Predicting Accident Severity with Image Data**
+    - Trained three distinct Multi-layer Perceptron (MLP) networks.
+    - Explored Convolutional Neural Networks (CNNs) through experiments to find optimal settings.
+
+2. **Sequence Prediction with RNNs**
+    - Explored the application of Recurrent Neural Networks (RNNs) for a sequence prediction task.
+
+### Msc BigData | Streamlit Yahoo Dashboard
+**October 2023 (1 month)**
+
+- Developed skills in creating Python applications, from collecting and processing data to presenting it.
+- Integrated Yahoo Finance data and Reddit news for a holistic financial analysis.
+- **Libraries Used:** NumPy, Pandas, Matplotlib, Plotly, yfinance, Streamlit, Requests, Redditwarp.
+- [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
+
+---
 ## Education
 
 ### IESEG School of Management (Lille, France)
@@ -81,35 +110,7 @@ _2019 – 2021_
 
 ---
 
-## Projects
 
-### Crédit Agricole Bank & Msc BigData | Predict Risk and Building Depreciation
-**Feb 2024 - May 2024 Winning Team**
-
-- Developed a predictive model to forecast potential depreciation in building value, incorporating risk levels and various other factors.
-- Utilized Open Data to evaluate climate-related risks impacting buildings in a specific region in France.
-- **Project Link:** [la-carte-du-peril](https://la-carte-du-peril.streamlit.app/)
-- Location: Hauts De France, Lille.
-
-### Msc BigData | DeepLearning
-**March 2024 (2 weeks)**
-
-1. **Predicting Accident Severity with Image Data**
-    - Trained three distinct Multi-layer Perceptron (MLP) networks.
-    - Explored Convolutional Neural Networks (CNNs) through experiments to find optimal settings.
-
-2. **Sequence Prediction with RNNs**
-    - Explored the application of Recurrent Neural Networks (RNNs) for a sequence prediction task.
-
-### Msc BigData | Streamlit Yahoo Dashboard
-**October 2023 (1 month)**
-
-- Developed skills in creating Python applications, from collecting and processing data to presenting it.
-- Integrated Yahoo Finance data and Reddit news for a holistic financial analysis.
-- **Libraries Used:** NumPy, Pandas, Matplotlib, Plotly, yfinance, Streamlit, Requests, Redditwarp.
-- [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
-
----
 
 ## Professional Experience
 
