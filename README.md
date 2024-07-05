@@ -2,20 +2,19 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=3498DB&background=2A2E3425&center=true&vCenter=true&lines=Aspiring+Data+Scientist;Aspiring+Data+Analyst;Aspiring+Data+Engineer;Everything+Big+Data)](https://git.io/typing-svg)
 
 Leveraging my background in audit consulting and a rigorous education in Big Data analytics. Proficient in Python and its relevant libraries, I bring hands-on experience in machine learning and data visualization. Highly motivated and eager to embark on the next phase of my career journey, I am ready to thrive in a dynamic and diverse culture.
+
 <!-- Connect with me div -->
 <div>
   <div align="center">
-    </a>
     <!-- Linkedin Link -->
     <a href="https://www.linkedin.com/in/ketan-bopanna-01001011/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
     </a>
-    
   </div>
 </div>
 
 <sub>Email: hkket84@gmail.com</sub>
----
+
 
 ## Skills
 
