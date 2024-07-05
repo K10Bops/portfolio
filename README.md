@@ -1,5 +1,3 @@
-# Kodangada Ketan Bopanna
-
 ## Aspiring Data Scientist
 
 Leveraging my background in audit consulting and a rigorous education in Big Data analytics. Proficient in Python and its relevant libraries, I bring hands-on experience in machine learning and data visualization. Highly motivated and eager to embark on the next phase of my career journey, I am ready to thrive in a dynamic and diverse culture.
