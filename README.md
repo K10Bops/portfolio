@@ -3,33 +3,54 @@
 
 Leveraging my background in audit consulting and a rigorous education in Big Data analytics. Proficient in Python and its relevant libraries, I bring hands-on experience in machine learning and data visualization. Highly motivated and eager to embark on the next phase of my career journey, I am ready to thrive in a dynamic and diverse culture.
 
+
 ---
 
 ## Skills
 
-### Technical:
-- MsExcel: Expert
-- Python: Intermediate
-- R: Beginner
-- SQL: Beginner
-- PySpark: Intermediate
-- Tableau: Intermediate
-- TensorFlow: Beginner
-- R(Shiny): Beginner
-- Streamlit: Intermediate
-
-### Soft:
-- Curious
-- Collaborative
-- Critical thinking
-- Detail oriented
-- Creative
-- Flexible
-- Cross functional communication
-- Stakeholder oriented
+<table>
+  <tr>
+    <td><b>Technical:</b></td>
+    <td><b>Soft:</b></td>
+  </tr>
+  <tr>
+    <td>MsExcel: Expert</td>
+    <td>Curious</td>
+  </tr>
+  <tr>
+    <td>Python: Intermediate</td>
+    <td>Collaborative</td>
+  </tr>
+  <tr>
+    <td>R: Beginner</td>
+    <td>Critical thinking</td>
+  </tr>
+  <tr>
+    <td>SQL: Beginner</td>
+    <td>Detail oriented</td>
+  </tr>
+  <tr>
+    <td>PySpark: Intermediate</td>
+    <td>Creative</td>
+  </tr>
+  <tr>
+    <td>Tableau: Intermediate</td>
+    <td>Flexible</td>
+  </tr>
+  <tr>
+    <td>TensorFlow: Beginner</td>
+    <td>Cross functional communication</td>
+  </tr>
+  <tr>
+    <td>R(Shiny): Beginner</td>
+    <td>Stakeholder oriented</td>
+  </tr>
+  <tr>
+    <td>Streamlit: Intermediate</td>
+  </tr>
+</table>
 
 ---
-
 ## Education
 
 ### IESEG School of Management (Lille, France)
@@ -62,13 +83,13 @@ _2019 – 2021_
 
 ## Projects
 
-### Msc BigData | Streamlit Yahoo Dashboard
-**October 2023 (1 month)**
+### Crédit Agricole Bank & Msc BigData | Predict Risk and Building Depreciation
+**Feb 2024 - May 2024 Winning Team**
 
-- Developed skills in creating Python applications, from collecting and processing data to presenting it.
-- Integrated Yahoo Finance data and Reddit news for a holistic financial analysis.
-- **Libraries Used:** NumPy, Pandas, Matplotlib, Plotly, yfinance, Streamlit, Requests, Redditwarp.
-- [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
+- Developed a predictive model to forecast potential depreciation in building value, incorporating risk levels and various other factors.
+- Utilized Open Data to evaluate climate-related risks impacting buildings in a specific region in France.
+- **Project Link:** [la-carte-du-peril](https://la-carte-du-peril.streamlit.app/)
+- Location: Hauts De France, Lille.
 
 ### Msc BigData | DeepLearning
 **March 2024 (2 weeks)**
@@ -80,13 +101,17 @@ _2019 – 2021_
 2. **Sequence Prediction with RNNs**
     - Explored the application of Recurrent Neural Networks (RNNs) for a sequence prediction task.
 
-### Crédit Agricole Bank & Msc BigData | Predict Risk and Building Depreciation
-**Feb 2024 - Winning Team**
 
-- Developed a predictive model to forecast potential depreciation in building value, incorporating risk levels and various other factors.
-- Utilized Open Data to evaluate climate-related risks impacting buildings in a specific region in France.
-- **Project Link:** [la-carte-du-peril](https://la-carte-du-peril.streamlit.app/)
-- Location: Hauts De France, Lille.
+
+### Msc BigData | Streamlit Yahoo Dashboard
+**October 2023 (1 month)**
+
+- Developed skills in creating Python applications, from collecting and processing data to presenting it.
+- Integrated Yahoo Finance data and Reddit news for a holistic financial analysis.
+- **Libraries Used:** NumPy, Pandas, Matplotlib, Plotly, yfinance, Streamlit, Requests, Redditwarp.
+- [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
+
+
 
 ---
 
@@ -125,4 +150,3 @@ _Oct 2021 - Dec 2021_
 ## Contact
 
 - Email: hkket84@gmail.com
-- Phone: +33 07 66 54 09 45
