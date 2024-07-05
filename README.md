@@ -1,5 +1,5 @@
 
-##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=3498DB&background=2A2E3425&center=true&vCenter=true&lines=Aspiring+Data+Scientist;Aspiring+Data+Analyst;Aspiring+Data+Engineer;Everything+Big+Data)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=3498DB&background=2A2E3425&center=true&vCenter=true&lines=Aspiring+Data+Scientist;Aspiring+Data+Analyst;Aspiring+Data+Engineer;Everything+Big+Data)](https://git.io/typing-svg)
 
 Leveraging my background in audit consulting and a rigorous education in Big Data analytics. Proficient in Python and its relevant libraries, I bring hands-on experience in machine learning and data visualization. Highly motivated and eager to embark on the next phase of my career journey, I am ready to thrive in a dynamic and diverse culture.
 
