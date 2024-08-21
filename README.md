@@ -166,7 +166,6 @@ _2019 – 2021_
 _Jan 2022 - May 2023_
 
 - Conducted audits across 4 industries, including small and medium-sized enterprises (SMEs) and non-profit organizations.
-- Assessed financial statements, internal controls, and operational processes to pinpoint potential risks, inconsistencies, and areas for enhancement.
 - Scrutinized intricate data sets, detected anomalies, and ensured adherence to relevant laws, regulations, and industry standards.
 - Established and upheld effective communication channels with clients, addressing inquiries and offering guidance.
 - Provided accurate and reliable audit reports for stakeholders.
@@ -175,7 +174,7 @@ _Jan 2022 - May 2023_
 **Junior Audit Associate**  
 _Oct 2021 - Dec 2021_
 
-- Assessed financial statements, internal controls, and operational processes to identify potential risks, inconsistencies, and areas for improvement.
+- Assessed financial statements, internal controls (Reconciliation, Authorization), and operational processes to pinpoint potential risks (materiality,security,ethics), inconsistencies, and areas for enhancement.
 - Utilized analytical skills to evaluate complex data sets, detect anomalies, and ensure compliance with applicable laws, regulations, and industry standards.
 - Maintained effective communication channels with clients, addressing inquiries and providing guidance.
 
