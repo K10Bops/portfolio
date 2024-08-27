@@ -124,7 +124,7 @@ Leveraging my background in audit consulting and a rigorous education in Big Dat
 - Developed skills in creating Python applications, from collecting and processing data to presenting it.
 - Integrated Yahoo Finance data and Reddit news for a holistic financial analysis.
 - **Libraries Used:** NumPy, Pandas, Matplotlib, Plotly, yfinance, Streamlit, Requests, Redditwarp.
-- [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
+- **Project Link:** [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
 
 ---
 ## Education
