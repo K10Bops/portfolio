@@ -117,7 +117,8 @@ Leveraging my background in audit consulting and a rigorous education in Big Dat
 
 2. **Sequence Prediction with RNNs**
     - Explored the application of Recurrent Neural Networks (RNNs) for a sequence prediction task.
-**Project Link:** [DeepLearning](https://github.com/K10Bops/DeepLearning)
+      
+- **Project Link:** [DeepLearning](https://github.com/K10Bops/DeepLearning)
 
 ### Msc BigData | Streamlit Yahoo Dashboard
 **October 2023 (1 month)**
