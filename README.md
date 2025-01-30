@@ -97,16 +97,38 @@ Ex-auditor with a strong background in Big Data analytics, ensuring accuracy, pr
 
 
 ---
+### Data Scientist
+**DatumLocus · Internship**  
+_Dec 2024 - Present · 2 mos_  
+_Lille, Hauts-de-France, France · On-site_  
 
-## Projects
+**Key Responsibilities:**  
+- Develop scripts for data collection and transformation.  
+- Assist in building cloud infrastructure on Azure and AWS, including services like RDS, Cloudwatch, Kinesis, Cloudtrail, and Bedrock.  
+- Automate tasks related to data collection, processing, detection, management, and log monitoring.  
+- Support deployment processes across development, testing, and production environments.  
 
-### Crédit Agricole Bank & Msc BigData | Predict Risk and Building Depreciation
-**Feb 2024 - May 2024 Winning Team**
+**Skills:** Web Scraping, MySQL, Azure, AWS  
 
+---
+
+### Data Analytics Consultant  
+**Groupe Crédit Agricole · Indirect Contract**  
+_Feb 2024 - May 2024 · 4 mos_  
+_Pas-de-Calais, Hauts-de-France, France · Remote_  
+
+**Project: Building Depreciation & Risk Scoring Prediction on Natural Disasters**  
+- **Purpose:** Develop a model to forecast potential depreciation in building value, incorporating risk levels of flooding and various other factors.  
+- Utilized Open Data to evaluate climate-related risks impacting buildings in a specific region in France.
 - Developed a predictive model to forecast potential depreciation in building value, incorporating risk levels and various other factors.
 - Utilized Open Data to evaluate climate-related risks impacting buildings in a specific region in France.
 - **Project Link:** [la-carte-du-peril](https://la-carte-du-peril.streamlit.app/)
 - Location: Hauts De France, Lille.
+
+**Skills:** Open Data, GeoPandas, Predictive Modeling  
+
+
+## Projects
 
 ### Msc BigData | DeepLearning
 **March 2024 (2 weeks)**
@@ -161,7 +183,7 @@ _2019 – 2021_
 
 
 
-## Professional Experience
+## Professional Experience Audit
 
 ### Consulting Firm | BakerTilly Hong Kong
 **Audit Associate**  
