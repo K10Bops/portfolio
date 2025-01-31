@@ -207,7 +207,7 @@ _Oct 2021 - Dec 2021_
 ## Languages
 
 - English (Native)
-- French (Beginner)
+- French (Intermediate)
   
 - Hindi (Speaking)
 - Kannada (Beginner)
