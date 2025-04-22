@@ -99,7 +99,7 @@ Ex-auditor with a strong background in Big Data analytics, ensuring accuracy, pr
 ---
 ### Data Scientist
 **DatumLocus · Internship**  
-_Dec 2024 - Present · 2 mos_  
+_Dec 2024 - Present · 5 mos_  
 _Lille, Hauts-de-France, France · On-site_  
 
 **Key Responsibilities:**  
