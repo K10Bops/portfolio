@@ -1,5 +1,5 @@
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=3498DB&background=2A2E3425&center=true&vCenter=true&lines=Aspiring+Data+Scientist;Aspiring+Data+Analyst;Aspiring+Data+Engineer;Everything+Big+Data)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=3498DB&background=transparent&center=true&vCenter=true&lines=Aspiring+Data+Scientist;Aspiring+Data+Analyst;Aspiring+Data+Engineer;Everything+Big+Data)](https://git.io/typing-svg);
 
 Former auditor turned Data Scientist with a strong background in Big Data analytics, now with hands-on experience in data collection, transformation, and automation. Skilled in Python and its libraries, with expertise in machine learning, data extraction, feature engineering, hyperparameter tuning, and data visualization. I have successfully applied these skills during a 6-month internship, where I developed automated data pipelines and contributed to building cloud infrastructure. Ready to leverage my analytical and technical skills in a dynamic, innovative environment. Now looking for the next big endeavour. 
 
