@@ -99,7 +99,7 @@ Former auditor turned Data Scientist with a strong background in Big Data analyt
 ---
 ### Data Scientist
 **DatumLocus · Internship**  
-_Dec 2024 - Present · 5 mos_  
+_Dec 2024 - _May · 6 mos_  
 _Lille, Hauts-de-France, France · On-site_  
 
 **Key Responsibilities:**  
