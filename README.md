@@ -139,9 +139,16 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 
 2. **Sequence Prediction with RNNs**
     - Explored the application of Recurrent Neural Networks (RNNs) for a sequence prediction task.
-      
 - **Project Link:** [DeepLearning](https://github.com/K10Bops/DeepLearning)
 
+### Msc BigData | Big Data Tools
+**Feburary 2024 (1 month)**
+- Built a scalable PySpark pipeline on Databricks over 6 tables (~50k orders) to predict review polarity;
+- Engineered delivery, payment, and item features; performed data cleaning and type casting;
+- Trained cross-validated Logistic Regression and Gradient Boosted Tree classifiers with MLflow tracking;
+- Conducted hyperparameter grid-search over maxIter and regParam (optimal: maxIter=10, regParam=0.01), achieving 81.55 % test accuracy and 0.82 AUC on a holdout dataset; pruned non-significant features; generated per-order_id predictions to drive delivery communications and post-purchase personalization strategies
+- **Project Link:** [Databricks]([https://github.com/K10Bops/DeepLearning](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3884378638612455/2033111228792301/7172332615946991/latest.html))
+  
 ### Msc BigData | Streamlit Yahoo Dashboard
 **October 2023 (1 month)**
 
@@ -149,6 +156,10 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 - Integrated Yahoo Finance data and Reddit news for a holistic financial analysis.
 - **Libraries Used:** NumPy, Pandas, Matplotlib, Plotly, yfinance, Streamlit, Requests, Redditwarp.
 - **Project Link:** [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
+
+
+
+
 
 ---
 ## Education
