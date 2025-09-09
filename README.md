@@ -147,7 +147,7 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 - Engineered delivery, payment, and item features; performed data cleaning and type casting;
 - Trained cross-validated Logistic Regression and Gradient Boosted Tree classifiers with MLflow tracking;
 - Conducted hyperparameter grid-search over maxIter and regParam (optimal: maxIter=10, regParam=0.01), achieving 81.55 % test accuracy and 0.82 AUC on a holdout dataset; pruned non-significant features; generated per-order_id predictions to drive delivery communications and post-purchase personalization strategies
-- **Project Link:** [Databricks]([https://tinyurl.com/39ed3d7t])
+- **Project Link:** [Databricks] ([https://tinyurl.com/39ed3d7t])
   
 ### Msc BigData | Streamlit Yahoo Dashboard
 **October 2023 (1 month)**
