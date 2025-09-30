@@ -165,7 +165,7 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 - Engineered temporal features (year, month, day), geographical groupings (postal code → department-level stats), and imputed missing values with category “Missing”;
 - Built visualizations (correlation heatmaps, count plots) to understand relations between establishment type, geography, and hygiene outcomes;
 - Trained and tuned a Random Forest classifier with GridSearchCV, achieving competitive accuracy and ranking 5th of 12 groups in class Kaggle-style competition;
-- **Project Link:** [kaggle A²K10 ]([https://k10b-ubiquitous-novo-journey.streamlit.app/](https://www.kaggle.com/competitions/mbd2023-food-safety-controls/leaderboard))
+- **Project Link:** [kaggle A²K10 ](https://www.kaggle.com/competitions/mbd2023-food-safety-controls/leaderboard)
 
 
 ---
