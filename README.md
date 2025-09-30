@@ -157,8 +157,15 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 - **Libraries Used:** NumPy, Pandas, Matplotlib, Plotly, yfinance, Streamlit, Requests, Redditwarp.
 - **Project Link:** [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
 
+### Msc BigData |  Food Safety Inspection Classification (Class Competition – 5th/12)
+**March 2024 (1 month)**
 
-
+- Processed and analyzed 40k+ sanitary inspection records from the French open-data portal (Alim’confiance dataset, data.gouv.fr);
+- Cleaned and standardized textual anomalies (e.g., encoding issues “TrÃ¨s satisfaisant” → “Très satisfaisant”); dropped irrelevant high-cardinality fields;
+- Engineered temporal features (year, month, day), geographical groupings (postal code → department-level stats), and imputed missing values with category “Missing”;
+- Built visualizations (correlation heatmaps, count plots) to understand relations between establishment type, geography, and hygiene outcomes;
+- Trained and tuned a Random Forest classifier with GridSearchCV, achieving competitive accuracy and ranking 5th of 12 groups in class Kaggle-style competition;
+- **Project Link:** [kaggle A²K10 ]([https://k10b-ubiquitous-novo-journey.streamlit.app/](https://www.kaggle.com/competitions/mbd2023-food-safety-controls/leaderboard))
 
 
 ---
