@@ -130,12 +130,11 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 
 ## Projects
 
-### Msc BigData | Recommender Systems
+### I. Recommender Systems | Msc BigData 
 **May 2024 (4 weeks)**
+*Developed a recipe recommendation system using a dataset of user-recipe reviews with ratings and comments*
 
-*Recipe recommendation system with user-recipe reviews*
-- Developed a recipe recommendation system using a dataset of user-recipe reviews with ratings and comments.
-   Implemented three recommendation approaches:
+Implemented three recommendation approaches:
 - Content-Based Filtering using recipe features (ingredients, prep time, description length, tags).
 - Collaborative Filtering (user-based and item-based KNN with cosine and Pearson similarity).
 - Matrix Factorization Models including ALS, SVD, and CoClustering.
@@ -146,7 +145,7 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 - Documented the full model development, evaluation, and feature engineering process in Python notebooks, with Markdown explanations and visualizations.
 
 
-### Msc BigData | DeepLearning
+### II. DeepLearning | Msc BigData 
 **March 2024 (2 weeks)**
 
 1. **Predicting Accident Severity with Image Data**
@@ -157,8 +156,9 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
     - Explored the application of Recurrent Neural Networks (RNNs) for a sequence prediction task.
 - **Project Link:** [DeepLearning](https://github.com/K10Bops/DeepLearning)
 
-### Msc BigData | Big Data Tools
+### III. Big Data Tools | Msc BigData 
 **Feburary 2024 (1 month)**
+
 - Built a scalable PySpark pipeline on Databricks over 6 tables (~50k orders) to predict review polarity;
 - Engineered delivery, payment, and item features; performed data cleaning and type casting;
 - Trained cross-validated Logistic Regression and Gradient Boosted Tree classifiers with MLflow tracking;
@@ -166,7 +166,7 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 - **Project Link:** [Databricks](https://tinyurl.com/39ed3d7t)
   
 
-### Msc BigData |  Food Safety Inspection Classification (Class Competition – 5th/12)
+### IV. Food Safety Inspection Classification (Class Competition – 5th/12) | Msc BigData 
 **March 2024 (1 month)**
 
 - Processed and analyzed 40k+ sanitary inspection records from the French open-data portal (Alim’confiance dataset, data.gouv.fr);
@@ -176,7 +176,7 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 - Trained and tuned a Random Forest classifier with GridSearchCV, achieving competitive accuracy and ranking 5th of 12 groups in class Kaggle-style competition;
 - **Project Link:** [kaggle A²K10 ](https://www.kaggle.com/competitions/mbd2023-food-safety-controls/leaderboard)
 
-### Msc BigData | Streamlit Yahoo Dashboard
+### VI. Streamlit Yahoo Dashboard | Msc BigData 
 **October 2023 (1 month)**
 
 - Developed skills in creating Python applications, from collecting and processing data to presenting it.
