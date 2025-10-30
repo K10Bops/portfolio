@@ -99,7 +99,7 @@ Former auditor turned Data Scientist with a strong background in Big Data analyt
 ---
 ### Data Scientist
 **DatumLocus · Internship**  
-_Dec 2024 - _May · 6 mos_  
+_Dec 2024 - _May 2025 · 6 mos_  
 _Lille, Hauts-de-France, France · On-site_  
 
 **Key Responsibilities:**  
@@ -130,6 +130,22 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 
 ## Projects
 
+### Msc BigData | Recommender Systems
+**May 2024 (4 weeks)**
+
+1. **recipe recommendation system with user-recipe reviews**
+- Developed a recipe recommendation system using a dataset of user-recipe reviews with ratings and comments.
+   Implemented three recommendation approaches:
+- Content-Based Filtering using recipe features (ingredients, prep time, description length, tags).
+- Collaborative Filtering (user-based and item-based KNN with cosine and Pearson similarity).
+- Matrix Factorization Models including ALS, SVD, and CoClustering.
+- Conducted feature engineering for content-based modeling: processed text, ingredients, tags, prep times, and nutritional information.
+- Performed train-test split based on review dates to simulate real-world recommendation scenarios.
+- Evaluated models using RMSE and top-N recommendation metrics, achieving the best performance with the ALS model (RMSE ≈ 1.075).
+- Generated top-N personalized recommendations for users and integrated predictions into submission-ready outputs.
+- Documented the full model development, evaluation, and feature engineering process in Python notebooks, with Markdown explanations and visualizations.
+
+
 ### Msc BigData | DeepLearning
 **March 2024 (2 weeks)**
 
@@ -149,13 +165,6 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 - Conducted hyperparameter grid-search over maxIter and regParam (optimal: maxIter=10, regParam=0.01), achieving 81.55 % test accuracy and 0.82 AUC on a holdout dataset; pruned non-significant features; generated per-order_id predictions to drive delivery communications and post-purchase personalization strategies
 - **Project Link:** [Databricks](https://tinyurl.com/39ed3d7t)
   
-### Msc BigData | Streamlit Yahoo Dashboard
-**October 2023 (1 month)**
-
-- Developed skills in creating Python applications, from collecting and processing data to presenting it.
-- Integrated Yahoo Finance data and Reddit news for a holistic financial analysis.
-- **Libraries Used:** NumPy, Pandas, Matplotlib, Plotly, yfinance, Streamlit, Requests, Redditwarp.
-- **Project Link:** [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
 
 ### Msc BigData |  Food Safety Inspection Classification (Class Competition – 5th/12)
 **March 2024 (1 month)**
@@ -167,6 +176,13 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 - Trained and tuned a Random Forest classifier with GridSearchCV, achieving competitive accuracy and ranking 5th of 12 groups in class Kaggle-style competition;
 - **Project Link:** [kaggle A²K10 ](https://www.kaggle.com/competitions/mbd2023-food-safety-controls/leaderboard)
 
+### Msc BigData | Streamlit Yahoo Dashboard
+**October 2023 (1 month)**
+
+- Developed skills in creating Python applications, from collecting and processing data to presenting it.
+- Integrated Yahoo Finance data and Reddit news for a holistic financial analysis.
+- **Libraries Used:** NumPy, Pandas, Matplotlib, Plotly, yfinance, Streamlit, Requests, Redditwarp.
+- **Project Link:** [Streamlit Yahoo Dashboard](https://k10b-ubiquitous-novo-journey.streamlit.app/)
 
 ---
 ## Education
