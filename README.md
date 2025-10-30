@@ -99,7 +99,7 @@ Former auditor turned Data Scientist with a strong background in Big Data analyt
 ---
 ### Data Scientist
 **DatumLocus · Internship**  
-_Dec 2024 - _May 2025 · 6 mos_  
+_Dec 2024 - May 2025 · 6 mos_  
 _Lille, Hauts-de-France, France · On-site_  
 
 **Key Responsibilities:**  
@@ -133,7 +133,7 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 ### Msc BigData | Recommender Systems
 **May 2024 (4 weeks)**
 
-1. **recipe recommendation system with user-recipe reviews**
+*Recipe recommendation system with user-recipe reviews*
 - Developed a recipe recommendation system using a dataset of user-recipe reviews with ratings and comments.
    Implemented three recommendation approaches:
 - Content-Based Filtering using recipe features (ingredients, prep time, description length, tags).
