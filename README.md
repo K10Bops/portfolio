@@ -121,7 +121,6 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 - **Purpose:** Develop a model to forecast potential depreciation in building value, incorporating risk levels of flooding and various other factors.  
 - Utilized Open Data to evaluate climate-related risks impacting buildings in a specific region in France.
 - Developed a predictive model to forecast potential depreciation in building value, incorporating risk levels and various other factors.
-- Utilized Open Data to evaluate climate-related risks impacting buildings in a specific region in France.
 - **Project Link:** [la-carte-du-peril](https://la-carte-du-peril.streamlit.app/)
 - Location: Hauts De France, Lille.
 
