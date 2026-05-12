@@ -147,19 +147,14 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 **Jan 2026 (1 week)**
 *Designed and built a modern SQL-based data warehouse on SQL Server to consolidate ERP and CRM sales data for analytical reporting and business intelligence workflows.*
 
-- Designed a Medallion Architecture (Bronze, Silver, Gold layers) to structure ingestion, transformation, and business-ready analytics datasets.
-- Established project-wide naming conventions, Git/GitHub version control workflows, and agile documentation practices using Notion and Draw.io.
-- Developed robust ETL pipelines in T-SQL using Stored Procedures with TRY-CATCH error handling, execution logging, and performance monitoring.
-- Implemented high-throughput full-load ingestion processes using TRUNCATE and BULK INSERT operations for CSV-based source systems.
-- Engineered advanced data transformation workflows in the Silver layer:
-  - Removed duplicates using ROW_NUMBER window functions;
-  - Standardized categorical fields with CASE WHEN mapping logic;
-  - Cleaned and normalized raw source data by trimming whitespace and handling missing values;
-  - Derived new business attributes using SUBSTRING and window functions such as LEAD for temporal interval reconstruction.
-- Added auditability and lineage tracking through metadata enrichment fields (e.g., dw_created_date).
-- Integrated CRM and ERP datasets into a unified Star Schema model in the Gold layer, resolving key mismatches and enforcing referential integrity checks.
-- Validated schema consistency and data quality using automated SQL validation scripts prior to production loading.
-- **Tools & Technologies:** SQL Server, T-SQL, SSMS, Git/GitHub, Notion, Draw.io, CSV Processing.
+- Designed and implemented a modern SQL Server data warehouse using Medallion Architecture (Bronze, Silver, Gold) for scalable analytics and reporting workflows.
+- Developed end-to-end ETL pipelines in T-SQL with Stored Procedures, TRY-CATCH error handling, execution logging, and performance monitoring.
+- Built high-throughput ingestion workflows using BULK INSERT and automated full-load processing from ERP and CRM CSV datasets.
+- Engineered data transformation and cleansing pipelines using window functions (ROW_NUMBER, LEAD), CASE WHEN logic, and feature derivation techniques.
+- Integrated CRM and ERP data into a unified Star Schema model with referential integrity validation and lineage tracking.
+- Applied data quality controls, schema validation, and metadata enrichment to support reliable analytical reporting.
+- **Tech Stack:** SQL Server, T-SQL, ETL, Data Warehousing, Star Schema, Medallion Architecture, SSMS, Git/GitHub.
+- **Project Link:** [Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE)
 
 
 ### II. Recommender Systems | Msc BigData 
@@ -175,6 +170,7 @@ Implemented three recommendation approaches:
 - Evaluated models using RMSE and top-N recommendation metrics, achieving the best performance with the ALS model (RMSE ≈ 1.075).
 - Generated top-N personalized recommendations for users and integrated predictions into submission-ready outputs.
 - Documented the full model development, evaluation, and feature engineering process in Python notebooks, with Markdown explanations and visualizations.
+
 
 
 ### III. DeepLearning | Msc BigData 
