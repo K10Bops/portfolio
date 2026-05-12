@@ -19,29 +19,43 @@ Former auditor turned Data Scientist with a strong background in Big Data analyt
 ## Skills
 ### Technical
 <div class="flex flex-wrap gap-1">
+
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
-    AI/ML/DL: NLP, RNN, KNN, Random Forest
+    AI/ML/DL: NLP, Recommendation Systems, KNN, Random Forest, RNN, CNN, MLP
   </div>
-  
+
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
-    Python Libraries: NumPy, Pandas, Streamlit, Scikit-learn, GeoPandas, Plotly, PyTorch, TensorFlow, Keras
+    Data Engineering: ETL Pipelines, Data Warehousing, Medallion Architecture, Data Modeling, Star Schema
   </div>
-  
+
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
-    Big Data: Databricks, PySpark
+    Big Data: Databricks, PySpark, MLflow
   </div>
-  
+
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
-    Databases: MySQL
+    Databases: SQL Server, MySQL
   </div>
-  
+
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
-    Data Visualization: Excel, Tableau
+    SQL & Analytics: T-SQL, Stored Procedures, Window Functions, Data Cleaning, Feature Engineering
   </div>
-  
+
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
-    Languages: Python, SQL, R(Shiny)
+    Python Libraries: NumPy, Pandas, Scikit-learn, Streamlit, GeoPandas, Plotly, PyTorch, TensorFlow, Keras
   </div>
+
+  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
+    Data Visualization: Tableau, Plotly, Matplotlib, Excel
+  </div>
+
+  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
+    Tools & Platforms: Git, GitHub, Notion, Draw.io, SSMS
+  </div>
+
+  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
+    Languages: Python, SQL, R (Shiny)
+  </div>
+
 </div>
 
 ### Soft Skills
@@ -129,7 +143,26 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 
 ## Projects
 
-### I. Recommender Systems | Msc BigData 
+### I.  Modern SQL Data Warehouse Implementation | Independent Portfolio Project
+**Jan 2026 (1 week)**
+*Designed and built a modern SQL-based data warehouse on SQL Server to consolidate ERP and CRM sales data for analytical reporting and business intelligence workflows.*
+
+- Designed a Medallion Architecture (Bronze, Silver, Gold layers) to structure ingestion, transformation, and business-ready analytics datasets.
+- Established project-wide naming conventions, Git/GitHub version control workflows, and agile documentation practices using Notion and Draw.io.
+- Developed robust ETL pipelines in T-SQL using Stored Procedures with TRY-CATCH error handling, execution logging, and performance monitoring.
+- Implemented high-throughput full-load ingestion processes using TRUNCATE and BULK INSERT operations for CSV-based source systems.
+- Engineered advanced data transformation workflows in the Silver layer:
+  - Removed duplicates using ROW_NUMBER window functions;
+  - Standardized categorical fields with CASE WHEN mapping logic;
+  - Cleaned and normalized raw source data by trimming whitespace and handling missing values;
+  - Derived new business attributes using SUBSTRING and window functions such as LEAD for temporal interval reconstruction.
+- Added auditability and lineage tracking through metadata enrichment fields (e.g., dw_created_date).
+- Integrated CRM and ERP datasets into a unified Star Schema model in the Gold layer, resolving key mismatches and enforcing referential integrity checks.
+- Validated schema consistency and data quality using automated SQL validation scripts prior to production loading.
+- **Tools & Technologies:** SQL Server, T-SQL, SSMS, Git/GitHub, Notion, Draw.io, CSV Processing.
+
+
+### II. Recommender Systems | Msc BigData 
 **May 2024 (4 weeks)**
 *Developed a recipe recommendation system using a dataset of user-recipe reviews with ratings and comments*
 
@@ -144,7 +177,7 @@ Implemented three recommendation approaches:
 - Documented the full model development, evaluation, and feature engineering process in Python notebooks, with Markdown explanations and visualizations.
 
 
-### II. DeepLearning | Msc BigData 
+### III. DeepLearning | Msc BigData 
 **March 2024 (2 weeks)**
 
 1. **Predicting Accident Severity with Image Data**
@@ -155,7 +188,7 @@ Implemented three recommendation approaches:
     - Explored the application of Recurrent Neural Networks (RNNs) for a sequence prediction task.
 - **Project Link:** [DeepLearning](https://github.com/K10Bops/DeepLearning)
 
-### III. Big Data Tools | Msc BigData 
+### IV. Big Data Tools | Msc BigData 
 **Feburary 2024 (1 month)**
 
 - Built a scalable PySpark pipeline on Databricks over 6 tables (~50k orders) to predict review polarity;
@@ -165,7 +198,7 @@ Implemented three recommendation approaches:
 - **Project Link:** [Databricks](https://tinyurl.com/39ed3d7t)
   
 
-### IV. Food Safety Inspection Classification (Class Competition – 5th/12) | Msc BigData 
+### V. Food Safety Inspection Classification (Class Competition – 5th/12) | Msc BigData 
 **March 2024 (1 month)**
 
 - Processed and analyzed 40k+ sanitary inspection records from the French open-data portal (Alim’confiance dataset, data.gouv.fr);
