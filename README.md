@@ -21,7 +21,11 @@ Former auditor turned Data Scientist with a strong background in Big Data analyt
 <div class="flex flex-wrap gap-1">
 
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
-    AI/ML/DL: NLP, Recommendation Systems, KNN, Random Forest, RNN, CNN, MLP
+    AI/ML/DL: Recommendation Systems (Content-Based, Collaborative Filtering, Matrix Factorization), KNN, ALS, SVD, CoClustering, Random Forest, RNN, CNN, MLP
+  </div>
+
+  <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
+    MLOps & DevOps: GitHub Actions (CI/CD), CML (Continuous Machine Learning), Automated Model Reporting, ML Pipeline Orchestration
   </div>
 
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
@@ -49,7 +53,7 @@ Former auditor turned Data Scientist with a strong background in Big Data analyt
   </div>
 
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
-    Tools & Platforms: Git, GitHub, Notion, Draw.io, SSMS
+    Tools & Platforms: Git, GitHub, GitHub Actions, CML (DVC), Notion, Draw.io, SSMS
   </div>
 
   <div class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-primary/80 text-primary-foreground hover:bg-primary/60">
@@ -158,16 +162,13 @@ _Pas-de-Calais, Hauts-de-France, France · Remote_
 
 
 ### II. Recommender Systems | Msc BigData 
-**May 2024 (4 weeks)**
-*Developed a recipe recommendation system using a dataset of user-recipe reviews with ratings and comments*
-
-Implemented three recommendation approaches:
-- Content-Based Filtering using recipe features (ingredients, prep time, description length, tags).
-- Collaborative Filtering (user-based and item-based KNN with cosine and Pearson similarity).
-- Matrix Factorization Models including ALS, SVD, and CoClustering.
-- Conducted feature engineering for content-based modeling: processed text, ingredients, tags, prep times, and nutritional information.
+**May 2024 (4 weeks) + July 2026 (MLOps upgrade)**
+*Developed a recipe recommendation system using a dataset from Food.com dataset (user-recipe reviews, ratings, comments)*
+- Multi-Paradigm Modeling (three recommendation approaches) : Implemented Content-Based Filtering (NLP on ingredients/tags), Collaborative Filtering (User/Item KNN), and Matrix Factorization (ALS, SVD, CoClustering). (processed text, ingredients, tags, prep times, and nutritional information.)
+- Evaluation & Performance: Simulated real-world deployment using time-based train-test splits. Achieved top performance with the ALS model (RMSE: 1.07, NDCG@5: 0.99).
+- MLOps & CI/CD Engineering: Architected an automated MLOps pipeline using GitHub Actions and CML (Continuous Machine Learning).
+- Automated Deployment: Programmed the pipeline to trigger model retraining, generate visual performance reports (PNG artifacts), and auto-post metrics directly to GitHub PR comments upon every code push.
 - Performed train-test split based on review dates to simulate real-world recommendation scenarios.
-- Evaluated models using RMSE and top-N recommendation metrics, achieving the best performance with the ALS model (RMSE ≈ 1.075).
 - Generated top-N personalized recommendations for users and integrated predictions into submission-ready outputs.
 - Documented the full model development, evaluation, and feature engineering process in Python notebooks, with Markdown explanations and visualizations.
 
