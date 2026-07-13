@@ -61,9 +61,9 @@ Former auditor turned Data Scientist with a strong background in Big Data analyt
   </div>
 
 </div>
-</div>
 
-</div>
+<br />
+
 ### Soft Skills
 
 <table>
